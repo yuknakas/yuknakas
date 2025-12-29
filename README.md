@@ -6,6 +6,10 @@
 ## 🙋‍♂️ About me
 My coding journey started when I joined the [**42 Tokyo Piscine**](https://42tokyo.jp/) in Aug 2024! With absoloutly no coding experience beyond Scratch, it was definetly a hard month taking 2h long trains daily just to get to campus and grinding all day, but it was also very exciting!
 
+<p align="center">
+  <img src="assets/42_red.jpg" height="150px"> <img src="assets/42_blue.jpg" height="150px">
+</p>
+
 <h3 align="center">
   #42Born2Code → #42BeyondTheCode 
 </h3>
