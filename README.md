@@ -17,12 +17,12 @@ My coding journey started when I joined the [**42 Tokyo**](https://42tokyo.jp/) 
 Just like the recent change of the 42 slogan, and after fighting the beloved [norminette](https://github.com/42School/norminette) for over a year, I’m looking forward to continuing learning from the 42 network and applying my new skills to projects!
 
 ## 🔭 I’m currently working on
-- [42 CPP_Module_01](https://github.com/yuknakas/CPP_Module01)
+- [42 CPP_Module_02](https://github.com/yuknakas/CPP_Module02)
 - More to confirm in the next Semester!
 
 ## ⚡ Fun Projects!
 - [42 Minishell](https://github.com/yuknakas/minishell): Coding a simple bash shell... but is it really simple?? Understanding bash syntax and connecting it to C coding; very difficult, but even more rewarding!
-- [42 Philosophers](https://github.com/yuknakas/philo): Simulating philosophers taking turns eating from a bowl in the middle! Multithreading vs Multiprocessing and how to handle race conditions!
+- [42 Philosophers](https://github.com/yuknakas/philosophers): Simulating philosophers taking turns eating from a bowl in the middle! Multithreading vs Multiprocessing and how to handle race conditions!
 - [42 Frac-tol](https://github.com/yuknakas/fract-ol): Visualizing a fractol! Mandelbrot, Julia, and Burningship; how do fractols work and how to visualize the infinite calculations!?
 - [42 Push_swap](https://github.com/yuknakas/push_swap): A restricted sorting algorithim using only two stacks and 9 commands. And as a bonus, I've made a chacker for it (works better than the sorting code to be honest...)!
 - [RA Bootcamp 2025](https://github.com/yuknakas/BLP_replication): Replication of the BLP method from the study of economics. My first interaction with Stat Analysis and R!
