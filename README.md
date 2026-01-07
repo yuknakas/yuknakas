@@ -28,8 +28,8 @@ Just like the recent change of the 42 slogan, and after fighting the beloved [no
 - [RA Bootcamp 2025](https://github.com/yuknakas/BLP_replication): Replication of the BLP method from the study of economics. My first interaction with Stat Analysis and R!
 
 ## 🌱 I’m currently learning
-- Currently learning CPP and how object based languages work! It's particually interesting to see how some diffcult implementations in C can be so easy using objects, and how they work!
-I'm also a student at Whitman College! I haven't declared my major yet but my interests + classes are...
+- Currently learning CPP and how object based languages work! It's particually interesting to see how some diffcult implementations in C can be so easy using objects, and how they work!  
+#### I'm also a student at Whitman College! I haven't declared my major yet but my interests + classes are...
 - CS: Took **System Programing** (understanding how systems work + assembly) → now heading to **Software Development** w/ *Java*!
 - Chem: Currently taking the Orgo (Organic Chemistry) process → will continue to nex semster
 - Digital Imaging and Vision Applications in Science (DIVAS) Alliance 2026 → Combining CS and Chem, my two big interests!
