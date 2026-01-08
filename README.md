@@ -22,7 +22,7 @@ Just like the recent change of the 42 slogan, and after fighting the beloved [no
 
 ## ⚡ Fun Projects!
 - [42 Minishell](https://github.com/yuknakas/minishell): Coding a simple bash shell... but is it really simple?? Understanding bash syntax and connecting it to C coding; very difficult, but even more rewarding!
-- [42 Philosophers](https://github.com/yuknakas/philosophers): Simulating philosophers taking turns eating from a bowl in the middle! Multithreading vs Multiprocessing and how to handle race conditions!
+- [42 Philosophers](https://github.com/yuknakas/philosophers): Simulating philosophers taking turns eating from a bowl in the middle! ```pthread``` vs ```fork``` and how to handle race conditions!
 - [42 Frac-tol](https://github.com/yuknakas/fract-ol): Visualizing a fractol! Mandelbrot, Julia, and Burningship; how do fractols work and how to visualize the infinite calculations!?
 - [42 Push_swap](https://github.com/yuknakas/push_swap): A restricted sorting algorithim using only two stacks and 9 commands. And as a bonus, I've made a chacker for it (works better than the sorting code to be honest...)!
 - [RA Bootcamp 2025](https://github.com/yuknakas/BLP_replication): Replication of the BLP method from the study of economics. My first interaction with Stat Analysis and R!
